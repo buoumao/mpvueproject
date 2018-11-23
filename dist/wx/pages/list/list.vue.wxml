@@ -1,0 +1,19 @@
+<import src="/pages/list_template/list_template.vue.wxml" /><template name="21ab7443">
+  <view class="_div data-v-4477a2ce list-container">
+    <swiper class="_swiper data-v-4477a2ce">
+      <swiper-item class="_swiper-item data-v-4477a2ce">
+        <image src="/static/detail/img/01.jpg" alt class="_img data-v-4477a2ce"></image>
+      </swiper-item>
+      <swiper-item class="_swiper-item data-v-4477a2ce">
+        <image src="/static/detail/img/02.jpg" alt class="_img data-v-4477a2ce"></image>
+      </swiper-item>
+      <swiper-item class="_swiper-item data-v-4477a2ce">
+        <image src="/static/detail/img/03.jpg" alt class="_img data-v-4477a2ce"></image>
+      </swiper-item>
+      <swiper-item class="_swiper-item data-v-4477a2ce">
+        <image src="/static/detail/img/04.jpg" alt class="_img data-v-4477a2ce"></image>
+      </swiper-item>
+    </swiper>
+    <view class="_div data-v-4477a2ce"><template data="{{...$root[$kk+'4'], $root}}" is="27286cbb"></template></view>
+  </view>
+</template>

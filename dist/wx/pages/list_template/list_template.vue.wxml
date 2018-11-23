@@ -1,0 +1,14 @@
+<template name="27286cbb">
+  <view class="_div data-v-20f904de tmp-container">
+    <view class="_div data-v-20f904de avatar-date">
+      <image src="/static/detail/img/03.jpg" alt class="_img data-v-20f904de"></image> <label class="_span data-v-20f904de">2018</label>
+    </view>
+    <view class="_p data-v-20f904de company">硅谷之巅</view>
+    <image class="_img data-v-20f904de detail-img" src="/static/img/guigu.jpg" alt></image>
+    <view class="_p data-v-20f904de content">石墨文档是一款轻便、简洁的在线协作文档工具,PC端和移动端全覆盖,支持多人同时对文档编辑和评论,让你与他人轻松完成协作撰稿、方案讨论、会议记录和资料共享等工作。</view>
+    <view class="_div data-v-20f904de view-star-container">
+      <image src="/static/img/icon/shoucang.png" alt class="_img data-v-20f904de"></image> <label class="_span data-v-20f904de">66</label>
+      <image src="/static/img/icon/chakan.png" alt class="_img data-v-20f904de"></image> <label class="_span data-v-20f904de">88</label>
+    </view>
+  </view>
+</template>
